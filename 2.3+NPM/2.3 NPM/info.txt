@@ -1,0 +1,3 @@
+Initialize a Node.js project (if you haven't already).
+Install the superheroes package.
+Write a Node.js script that uses the superheroes package and writes the output
